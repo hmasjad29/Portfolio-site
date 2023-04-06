@@ -75,7 +75,7 @@ section {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url(/images/home.jpg);
+    background-image: url(images/home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
