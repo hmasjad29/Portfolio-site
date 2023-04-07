@@ -590,6 +590,11 @@ textarea {
 
 @media(max-width:365px)
 {
+    
+     .home {
+        background-image: url(/images/3.avif);
+    }
+
     .footer {
         flex-direction: column-reverse;
       
